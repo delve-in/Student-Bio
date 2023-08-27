@@ -1,0 +1,139 @@
+* {
+    background-color: #F1FFE7;
+    padding: 0%;
+    margin: 0%;
+}
+
+header {
+    background-color: #32A287;
+    color: #ffffff;
+    height: 75px;
+    
+}
+
+nav {
+    background-color: #32A287;
+    display: inline;
+    float: right;
+    padding-top: 20px;
+}
+
+ul {
+    background-color: #32A287;
+}
+a {
+    background-color: #32A287;
+    color: #6C464E;
+}
+li {
+    font-size: 25px;
+    display: inline;
+    margin-right: 20px;
+}
+
+.top {
+    background-color: #A9FDAC;
+    height: 650px;
+    border-top: 8px solid #6C464E;
+    border-bottom: 5px solid #6C464E;
+}
+
+.align {
+    background-color: #A9FDAC;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    width: 25%;
+    display: block;
+}
+
+h1{
+    font-family:'Courier New', Courier, monospace;
+    color: #6C464E;
+    padding-top: 20px;
+    margin: 0%;
+    font-size: 70px;
+    height: 50px;
+}
+
+#para {
+    color: #6C464E;
+    width: 90%;
+    font-size: 20px;
+    font-family:'Courier New', Courier, monospace;
+    height: 100px;
+    text-align: justify;
+    text-justify: inter-word;
+    padding-top: 30px;
+}
+
+.bottom {
+    background-color: #44CF6C;
+    height: 350px;
+    border-bottom: 5px solid #6C464E;
+
+}
+
+h2 {
+    margin-top: 0%;
+    text-align: center;
+    padding: 30px;
+    font-size: 30px;
+}
+
+.form {
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #44CF6C;
+    width: 250px;
+    color: #6C464E;
+}
+
+button {
+    display: block;
+    margin-top: 20px;
+    margin-left: 90px ;
+    padding: 7px;
+    background-color: #6C464E;
+    color: #A9FDAC;
+    margin-bottom: 30px;
+}
+
+h3 {
+    background-color: #32A287;
+    color: #6C464E;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    margin: 0%;
+    padding-top: 25px ;
+    height: 50px;
+    border-bottom: 10px solid #6C464E;
+}
+
+label{
+    margin-top: 1000px;
+    display: inline;
+    padding-right: 10px;
+    font-size: larger;
+    font-weight: bold;
+}
+
+input{
+    align-content: center;
+    display: inline;
+    background-color: #A9FDAC;
+    color: #6C464E;
+}
+
+#form {
+    padding-top: 40px;
+    padding-left: 150px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 400px;
+    border-radius: 44px 44px 44px 44px;
+-moz-border-radius: 44px 44px 44px 44px;
+-webkit-border-radius: 44px 44px 44px 44px;
+border: 4px solid #6C464E;
+}

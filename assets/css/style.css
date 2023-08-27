@@ -61,7 +61,6 @@ h1{
     width: 90%;
     font-size: 20px;
     font-family:'Courier New', Courier, monospace;
-    height: 100px;
     text-align: justify;
     text-justify: inter-word;
     padding-top: 30px;
@@ -120,12 +119,14 @@ label{
 }
 
 input{
-    align-content: center;
     display: inline;
     background-color: #A9FDAC;
     color: #6C464E;
 }
 
+#lname {
+    margin-left: 3px;
+}
 #form {
     padding-top: 40px;
     padding-left: 150px;
